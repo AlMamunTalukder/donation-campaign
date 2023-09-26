@@ -1,9 +1,5 @@
 const Donation = () => {
-  return (
-    <div>
-      <h3>This is Donation Page</h3>
-    </div>
-  );
+  return <div>this is donation page</div>;
 };
 
 export default Donation;

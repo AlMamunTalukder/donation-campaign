@@ -6,9 +6,9 @@
     "details": "Clean water is a basic necessity for every child. Your donation will help provide clean and safe drinking water to children in underserved communities, improving their health and well-being. With your support, we can make a lasting impact on their lives.",
     "price": 25.0,
     "image": "https://i.ibb.co/tzs0DdG/image.png",
-    "bg-color": "#0052ff26",
-    "font-color": "#0052FF",
-    "cat-bg-color": "#0052ff33"
+    "bgColor": "#0052ff26",
+    "font_color": "#0052FF",
+    "cat_bg_color": "#0052ff33"
   },
   {
     "id": 2,
