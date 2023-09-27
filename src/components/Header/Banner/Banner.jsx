@@ -1,7 +1,6 @@
 const Banner = () => {
   return (
     <div className="relative h-[70vh]">
-      {/* Background Image */}
       <div
         className="absolute top-0 left-0 w-full h-full bg-green-200 opacity-10"
         style={{

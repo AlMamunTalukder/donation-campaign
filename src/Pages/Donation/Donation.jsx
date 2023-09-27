@@ -43,12 +43,14 @@ const Donation = () => {
           </div>
         </div>
       )}
-      <button
-        onClick={() => setIsShow(!isShow)}
-        className="bg-[#009444] text-white py-2 mt-6 px-5 rounded block mx-auto"
-      >
-        See All
-      </button>
+      {donations.length > 4 && (
+        <button
+          onClick={() => setIsShow(!isShow)}
+          className="bg-[#009444] text-white py-2 mt-6 px-5 rounded block mx-auto"
+        >
+          {isShow ? "See Less" : "See All"}
+        </button>
+      )}
     </div>
   );
 };

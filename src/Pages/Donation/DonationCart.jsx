@@ -1,5 +1,3 @@
-// import { Link } from "react-router-dom";
-
 const DonationCart = ({ donation }) => {
   const { id, category, name, image, price, bgColor, fontColor, catBgColor } =
     donation || {};
