@@ -34,9 +34,8 @@ const Statistics = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    console.log(data);
-    const localStorageData = JSON.parse(localStorage.getItem("donation"));
-
+    const localStorageData = localStorage.getItem("donation");
+    console.log(localStorageData);
     if (localStorageData) {
       setData(JSON.parse(localStorageData));
     }
