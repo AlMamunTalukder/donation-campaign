@@ -1,134 +1,134 @@
 [
   {
     "id": 1,
-    "category": "health",
+    "category": "Health",
     "name": "Clean water for children",
-    "details": "Clean water is a basic necessity for every child. Your donation will help provide clean and safe drinking water to children in underserved communities, improving their health and well-being. With your support, we can make a lasting impact on their lives.",
+    "details": "Clean water is a basic necessity for every child. Your donation will help provide clean and safe drinking water to children in underserved communities, improving their Health and well-being. With your support, we can make a lasting impact on their lives.",
     "price": 25.0,
     "image": "https://i.ibb.co/tzs0DdG/image.png",
     "bgColor": "#0052ff26",
-    "font_color": "#0052FF",
-    "cat_bg_color": "#0052ff33"
+    "fontColor": "#0052FF",
+    "catBgColor": "#0052ff33"
   },
   {
     "id": 2,
-    "category": "education",
+    "category": "Education",
     "name": "Good education",
     "details": "Quality education is key to a brighter future. Your donation will support educational initiatives that provide underprivileged children with access to quality education, empowering them to break the cycle of poverty and reach their full potential.",
     "price": 50.0,
     "image": "https://i.ibb.co/TBZB4Yg/image.png",
-    "bg-color": "#FF444A26",
-    "font-color": "#FF444A",
-    "cat-bg-color": "#FF444A33"
+    "bgColor": "#FF444A26",
+    "fontColor": "#FF444A",
+    "catBgColor": "#FF444A33"
   },
   {
     "id": 3,
-    "category": "cloth",
+    "category": "Cloth",
     "name": "Used Clothing Drive",
     "details": "Donate gently used clothing to those in need. Your contribution will help clothe individuals and families who are struggling to make ends meet. Together, we can make sure no one goes without warm clothing during the cold months.",
     "price": 10.0,
     "image": "https://i.ibb.co/h9jNDDs/image.png",
-    "bg-color": "#79C23F26",
-    "font-color": "#79C23F",
-    "cat-bg-color": "#79C23F33"
+    "bgColor": "#79C23F26",
+    "fontColor": "#79C23F",
+    "catBgColor": "#79C23F33"
   },
   {
     "id": 4,
-    "category": "food",
+    "category": "Food",
     "name": "Better Food for Everyone",
-    "details": "Access to nutritious food is a basic human right. Your donation will support food banks and programs that provide healthy meals to those facing hunger. Let's work together to ensure that everyone has enough to eat.",
+    "details": "Access to nutritious food is a basic human right. Your donation will support food banks and programs that provide Healthy meals to those facing hunger. Let's work together to ensure that everyone has enough to eat.",
     "price": 30.0,
     "image": "https://i.ibb.co/jbLy6Y1/image.png",
-    "bg-color": "#F8714726",
-    "font-color": "#F87147",
-    "cat-bg-color": "#F8714733"
+    "bgColor": "#F8714726",
+    "fontColor": "#F87147",
+    "catBgColor": "#F8714733"
   },
   {
     "id": 5,
-    "category": "food",
+    "category": "Food",
     "name": "Better Food for Everyone",
-    "details": "Access to nutritious food is a basic human right. Your donation will support food banks and programs that provide healthy meals to those facing hunger. Let's work together to ensure that everyone has enough to eat.",
+    "details": "Access to nutritious food is a basic human right. Your donation will support food banks and programs that provide Healthy meals to those facing hunger. Let's work together to ensure that everyone has enough to eat.",
     "price": 30.0,
     "image": "https://i.ibb.co/jbLy6Y1/image.png",
-    "bg-color": "#F8714726",
-    "font-color": "#F87147",
-    "cat-bg-color": "#F8714733"
+    "bgColor": "#F8714726",
+    "fontColor": "#F87147",
+    "catBgColor": "#F8714733"
   },
   {
     "id": 6,
-    "category": "cloth",
+    "category": "Cloth",
     "name": "Used Clothing Drive",
     "details": "Donate gently used clothing to those in need. Your contribution will help clothe individuals and families who are struggling to make ends meet. Together, we can make sure no one goes without warm clothing during the cold months.",
     "price": 10.0,
     "image": "https://i.ibb.co/h9jNDDs/image.png",
-    "bg-color": "#79C23F26",
-    "font-color": "#79C23F",
-    "cat-bg-color": "#79C23F33"
+    "bgColor": "#79C23F26",
+    "fontColor": "#79C23F",
+    "catBgColor": "#79C23F33"
   },
   {
     "id": 7,
-    "category": "education",
+    "category": "Education",
     "name": "Good education",
     "details": "Quality education is key to a brighter future. Your donation will support educational initiatives that provide underprivileged children with access to quality education, empowering them to break the cycle of poverty and reach their full potential.",
     "price": 50.0,
     "image": "https://i.ibb.co/TBZB4Yg/image.png",
-    "bg-color": "#FF444A26",
-    "font-color": "#FF444A",
-    "cat-bg-color": "#FF444A33"
+    "bgColor": "#FF444A26",
+    "fontColor": "#FF444A",
+    "catBgColor": "#FF444A33"
   },
   {
     "id": 8,
-    "category": "health",
+    "category": "Health",
     "name": "Clean water for children",
-    "details": "Clean water is a basic necessity for every child. Your donation will help provide clean and safe drinking water to children in underserved communities, improving their health and well-being. With your support, we can make a lasting impact on their lives.",
+    "details": "Clean water is a basic necessity for every child. Your donation will help provide clean and safe drinking water to children in underserved communities, improving their Health and well-being. With your support, we can make a lasting impact on their lives.",
     "price": 25.0,
     "image": "https://i.ibb.co/tzs0DdG/image.png",
-    "bg-color": "#0052ff26",
-    "font-color": "#0052FF",
-    "cat-bg-color": "#0052ff33"
+    "bgColor": "#0052ff26",
+    "fontColor": "#0052FF",
+    "catBgColor": "#0052ff33"
   },
   {
     "id": 9,
-    "category": "health",
+    "category": "Health",
     "name": "Clean water for children",
-    "details": "Clean water is a basic necessity for every child. Your donation will help provide clean and safe drinking water to children in underserved communities, improving their health and well-being. With your support, we can make a lasting impact on their lives.",
+    "details": "Clean water is a basic necessity for every child. Your donation will help provide clean and safe drinking water to children in underserved communities, improving their Health and well-being. With your support, we can make a lasting impact on their lives.",
     "price": 25.0,
     "image": "https://i.ibb.co/tzs0DdG/image.png",
-    "bg-color": "#0052ff26",
-    "font-color": "#0052FF",
-    "cat-bg-color": "#0052ff33"
+    "bgColor": "#0052ff26",
+    "fontColor": "#0052FF",
+    "catBgColor": "#0052ff33"
   },
   {
     "id": 10,
-    "category": "education",
+    "category": "Education",
     "name": "Good education",
     "details": "Quality education is key to a brighter future. Your donation will support educational initiatives that provide underprivileged children with access to quality education, empowering them to break the cycle of poverty and reach their full potential.",
     "price": 50.0,
     "image": "https://i.ibb.co/TBZB4Yg/image.png",
-    "bg-color": "#FF444A26",
-    "font-color": "#FF444A",
-    "cat-bg-color": "#FF444A33"
+    "bgColor": "#FF444A26",
+    "fontColor": "#FF444A",
+    "catBgColor": "#FF444A33"
   },
   {
     "id": 11,
-    "category": "cloth",
+    "category": "Cloth",
     "name": "Used Clothing Drive",
     "details": "Donate gently used clothing to those in need. Your contribution will help clothe individuals and families who are struggling to make ends meet. Together, we can make sure no one goes without warm clothing during the cold months.",
     "price": 10.0,
     "image": "https://i.ibb.co/h9jNDDs/image.png",
-    "bg-color": "#79C23F26",
-    "font-color": "#79C23F",
-    "cat-bg-color": "#79C23F33"
+    "bgColor": "#79C23F26",
+    "fontColor": "#79C23F",
+    "catBgColor": "#79C23F33"
   },
   {
     "id": 12,
-    "category": "food",
+    "category": "Food",
     "name": "Better Food for Everyone",
-    "details": "Access to nutritious food is a basic human right. Your donation will support food banks and programs that provide healthy meals to those facing hunger. Let's work together to ensure that everyone has enough to eat.",
+    "details": "Access to nutritious food is a basic human right. Your donation will support food banks and programs that provide Healthy meals to those facing hunger. Let's work together to ensure that everyone has enough to eat.",
     "price": 30.0,
     "image": "https://i.ibb.co/jbLy6Y1/image.png",
-    "bg-color": "#F8714726",
-    "font-color": "#F87147",
-    "cat-bg-color": "#F8714733"
+    "bgColor": "#F8714726",
+    "fontColor": "#F87147",
+    "catBgColor": "#F8714733"
   }
 ]
